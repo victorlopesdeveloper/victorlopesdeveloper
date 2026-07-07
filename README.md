@@ -14,13 +14,13 @@ Também gosto de compartilhar conhecimento e acompanhar as tendências do desenv
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/victorlopesdeveloper" target="_blank">
+  <a href="https://github.com/victorlopesdeveloper">
     <img src="https://img.shields.io/badge/GitHub-victorlopesdeveloper-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/victor.lopestf" target="_blank">
+  <a href="https://instagram.com/victor.lopestf">
     <img src="https://img.shields.io/badge/Instagram-@victor.lopestf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/victor-lopes-04a837116/" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-lopes-04a837116/">
     <img src="https://img.shields.io/badge/LINKEDIN-VICTOR%20LOPES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -58,7 +58,7 @@ Também gosto de compartilhar conhecimento e acompanhar as tendências do desenv
 ## 📊 Status do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorlopesdeveloper&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorlopesdeveloper&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlopesdeveloper&layout=compact&theme=tokyonight" />
 </p>
 
@@ -66,7 +66,7 @@ Também gosto de compartilhar conhecimento e acompanhar as tendências do desenv
 
 ## 🚀 Filosofia
 
-> "Cada desafio é uma oportunidade de aprender.
+> "Cada desafio é uma oportunidade de aprender.<br>
 > Cada projeto é uma chance de evoluir como desenvolvedor."
 
 ---
