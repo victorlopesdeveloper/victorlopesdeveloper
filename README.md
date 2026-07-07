@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Victor Lopes 
 
-🚀 ** Desenvolvedor Front-End | React.js Júnior **
+🚀 ** Desenvolvedor Front-End | React.js Júnior ** <br>
 🇧🇷 Brasil
 
 Sou Desenvolvedor Front-end Júnior apaixonado por tecnologia e por transformar desafios em soluções práticas. Acredito que programar vai muito além de escrever código: é resolver problemas, colaborar com pessoas e gerar valor por meio da tecnologia.
@@ -71,5 +71,5 @@ Também gosto de compartilhar conhecimento e acompanhar as tendências do desenv
 
 ---
 
-> ⭐ Se você gosta do meu trabalho, considere dar uma estrela a um repositório
+> ⭐ Se você gosta do meu trabalho, considere dar uma estrela a um repositório <br>
 > 🤝 Sempre aberto a colaborações, parcerias e ideias legais
