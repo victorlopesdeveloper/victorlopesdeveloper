@@ -14,13 +14,13 @@ Também gosto de compartilhar conhecimento e acompanhar as tendências do desenv
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/victorlopesdeveloper">
+  <a href="https://github.com/victorlopesdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-victorlopesdeveloper-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/victor.lopestf">
+  <a href="https://instagram.com/victor.lopestf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@victor.lopestf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/victor-lopes-04a837116/">
+  <a href="https://www.linkedin.com/in/victor-lopes-04a837116/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-VICTOR%20LOPES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
