@@ -63,7 +63,7 @@ Também gosto de compartilhar conhecimento e acompanhar as tendências do desenv
 
 ## 📊 Status do GitHub
 
-<p align="left">
+<p align="center">
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=victorlopesdeveloper&show_icons=true&theme=tokyonight" />
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorlopesdeveloper&theme=tokyonight" />
 </p>
