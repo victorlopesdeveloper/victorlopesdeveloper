@@ -9,6 +9,10 @@ Tenho foco em desenvolvimento web, boas práticas de programação, código limp
 
 Também gosto de compartilhar conhecimento e acompanhar as tendências do desenvolvimento de software, buscando crescer constantemente como desenvolvedor e contribuir de forma positiva para os projetos em que participo.
 
+<br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNscGExNGFlc3gwcjVleG5iZTRuZTFkYml4Ym1tMGJuMmN4Zmd5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="programdor">
+
 ---
 
 ## 🌐 Onde me encontrar
