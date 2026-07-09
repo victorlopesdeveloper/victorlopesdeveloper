@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou Victor Lopes 
+# Olá 👋, Eu sou o Victor
 
 🚀 ** Desenvolvedor Front-End | React.js Júnior ** <br>
 🇧🇷 Brasil
