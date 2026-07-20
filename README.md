@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou o Victor
+# Olá 👋, eu sou o Victor!
 
 🚀 ** Desenvolvedor Front-End | React.js Júnior ** <br>
 🇧🇷 Brasil
